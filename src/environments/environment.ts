@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  API_URL:"https://webapplication220211205000930.azurewebsites.net/api/",
+  API_URL:"https://webapplication220211205000930.azurewebsites.net/api/SportsDepartment",
   PHOTO_URL:"https://webapplication220211205000930.azurewebsites.net/Photos/"
 };
 
