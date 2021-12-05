@@ -3,9 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  //API_URL:"https://webapplication220211205000930.azurewebsites.net/api/",
-  //PHOTO_URL:"https://webapplication220211205000930.azurewebsites.net/Photos/"
-  runtimeConfigUrl: 'https://friendly-edison-83ea13.netlify.app/netlify/functions/get-runtime-config-data-function',
+  production: false,
+  API_URL:'https://webapplication220211205000930.azurewebsites.net/api/',
+  PHOTO_URL:'https://webapplication220211205000930.azurewebsites.net/Photos/',
+  //runtimeConfigUrl: 'https://friendly-edison-83ea13.netlify.app/netlify/functions/get-runtime-config-data-function',
 };
 
 /*
