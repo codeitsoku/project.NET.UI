@@ -1,3 +1,5 @@
 export const environment = {
-  runtimeConfigUrl: 'https://friendly-edison-83ea13.netlify.app/netlify/functions/get-runtime-config-data-function',
+  production: true,
+  API_URL:'https://webapplication220211205000930.azurewebsites.net/api/',
+  PHOTO_URL:'https://webapplication220211205000930.azurewebsites.net/Photos/'
 };
